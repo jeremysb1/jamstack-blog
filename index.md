@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 ## Welome to Durham
  
 Welcome to our hip, little city.
