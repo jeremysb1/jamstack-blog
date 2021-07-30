@@ -1,6 +1,6 @@
 # Jamstack Blog
 
-I am teaching myself how to build a fast and secure Jamstack blog.
+Teaching myself how to build a fast and secure Jamstack blog.
 
 ## Requirements
 1. Use a Static Site Generator
